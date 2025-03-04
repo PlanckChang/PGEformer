@@ -1,5 +1,6 @@
 # A Spatial Node is Worth a Temporal Patch: Patch Granularity Efficient Transformer for Long-term Traffic Prediction
 
+We have organized the codebase and released the core part for review.
 ## Installation
 
 - python = 3.10.10
